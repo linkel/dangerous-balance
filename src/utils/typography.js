@@ -10,3 +10,4 @@ deyoung.overrideThemeStyles = ({ rhythm }, options) => ({
 const typography = new Typography(deyoung)
 
 export default typography
+export const rhythm = typography.rhythm
