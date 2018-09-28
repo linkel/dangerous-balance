@@ -42,3 +42,7 @@ danger, misfortune, fear, injustice, while continuing to affirm
 inwardly that life with all its sorrows is good; that everything is
 meaningful even if in a sense beyond our understanding; and that there
 is always tomorrow.
+
+Fred Rogers, in a meeting of the American Academy of Child Psychiatry:
+
+>It’s easy to convince people that children need to learn the alphabet and numbers... How do we help people to realize that what matters even more than the superimposition of adult symbols is how a person’s inner life finally puts together the alphabet and numbers of his outer life? What really matters is whether he uses the alphabet for the declaration of war or the description of a sunrise — his numbers for the final count at Buchenwald or the specifics of a brand-new bridge.
