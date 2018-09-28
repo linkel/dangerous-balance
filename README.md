@@ -7,7 +7,7 @@ I usually save notes to myself via Google Drive, to permit accessibility between
 GatsbyJS as the static site generator. Uses React. 
 
 # To Do
-- [ ] Get Markdown integration
+- [x] Get Markdown integration
 - [ ] Add individually published "posts"
 - [ ] Group posts by month
 - [ ] Content insertion #1
